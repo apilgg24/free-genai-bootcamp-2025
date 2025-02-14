@@ -1,0 +1,66 @@
+<sentence-structure-examples>
+    <example>
+        <sentence>The cat is cute.</sentence>
+        <structure>[Subject] は [Adjective] です。</structure>
+    </example>
+    
+    <example>
+        <sentence>There is a dog in the park.</sentence>
+        <structure>[Location] に [Subject] が います。</structure>
+    </example>
+    
+    <example>
+        <sentence>There is a book on the desk.</sentence>
+        <structure>[Location] に [Subject] が あります。</structure>
+    </example>
+    
+    <example>
+        <sentence>I eat an apple.</sentence>
+        <structure>[Subject] は [Object] を [Verb-present]。</structure>
+    </example>
+    
+    <example>
+        <sentence>Yesterday, I watched a movie.</sentence>
+        <structure>[Time]、[Subject] は [Object] を [Verb-past]。</structure>
+    </example>
+    
+    <example>
+        <sentence>What will you eat?</sentence>
+        <structure>[Question Word] [Object] を [Verb-present] か？</structure>
+    </example>
+    
+    <example>
+        <sentence>When will you go to school?</sentence>
+        <structure>[Question Word] [Location] に [Verb-present] か？</structure>
+    </example>
+    
+    <example>
+        <sentence>I eat breakfast and go to school.</sentence>
+        <structure>[Clause 1] て [Clause 2]。</structure>
+    </example>
+    
+    <example>
+        <sentence>He is reading a book.</sentence>
+        <structure>[Subject] は [Object] を [Verb-ている]。</structure>
+    </example>
+    
+    <example>
+        <sentence>Yesterday, he was reading a book in the library.</sentence>
+        <structure>[Time]、[Location] で [Subject] は [Verb-ていた]。</structure>
+    </example>
+    
+    <example>
+        <sentence>He can speak Japanese.</sentence>
+        <structure>[Subject] は [Verb-potential form] ことができる。</structure>
+    </example>
+    
+    <example>
+        <sentence>I do not eat meat.</sentence>
+        <structure>[Subject] は [Object] を [Verb-negative]。</structure>
+    </example>
+    
+    <example>
+        <sentence>Cats are quieter than dogs.</sentence>
+        <structure>[A] より [B] のほうが [Adjective] です。</structure>
+    </example>
+</sentence-structure-examples>

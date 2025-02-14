@@ -1,3 +1,4 @@
+<examples>
 <example>
 	<user:input>
 		Bears are at the door, did you leave the garbage out?
@@ -55,3 +56,4 @@
     - ask clues about verb conjugation
     </assistant:output>
 </example>
+</examples>
