@@ -28,6 +28,23 @@ The formatted output will generally contain three parts:
 
 ### Sentence Structure
 - Do not provide particles in the sentence structure
+- Do not provide tenses or conjugations in the sentence structure
+- Remember to consider beginner level sentence structures  
+
+Here is an example of simple sentence structures
+- The cat is cute. → [Subject] は [Adjective] です。
+- There is a dog in the park. → [Location] に [Subject] が います。
+- There is a book on the desk. → [Location] に [Subject] が あります。
+- I eat an apple. → [Subject] は [Object] を [Verb-present]。
+- Yesterday, I watched a movie. → [Time]、[Subject] は [Object] を [Verb-past]。
+- What will you eat? → [Question Word] [Object] を [Verb-present] か？
+- When will you go to school? → [Question Word] [Location] に [Verb-present] か？
+- I eat breakfast and go to school. → [Clause 1] て [Clause 2]。
+- He is reading a book. → [Subject] は [Object] を [Verb-ている]。
+- Yesterday, he was reading a book in the library. → [Time]、[Location] で [Subject] は [Verb-ていた]。
+- He can speak Japanese. → [Subject] は [Verb-potential form] ことができる。
+- I do not eat meat. → [Subject] は [Object] を [Verb-negative]。
+- Cats are quieter than dogs. → [A] より [B] のほうが [Adjective] です。
 
 ### Clues and Considerations
 - Try and provide a non-nested bulleted list
