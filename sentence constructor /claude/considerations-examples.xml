@@ -1,0 +1,52 @@
+<examples>
+    <example>
+        <output>
+        Sentence Structure:
+[Location] は [Adjective], [Reason] [Subject] は [Object] に [Verb] の が [Adjective]。
+Clues and Considerations:
+
+- This is a compound sentence connected by "so" showing cause and effect
+- The first part describes a state (the coldness)
+- The second part describes how that state affects an action
+- Think about how to express "for me" in Japanese
+- Consider which particles would mark location and the object being typed on
+- Remember that Japanese often omits pronouns when clear from context
+
+Next Steps:
+
+- Start with the first clause about the cold office
+- Think about which particle marks the location
+- Consider how to connect the two clauses to show cause and effect
+- Think about how to express difficulty in doing an action
+        </output>
+        <score>8</score>
+        <score:reason>
+            This example scores 6 because the returned information is somewhat concise.
+        </score:reason>
+    </example>
+    <example>
+        <output>
+        Sentence Structure:
+[Location] は [Adjective], [Reason] [Object] で [Adverb] [Verb-potential-negative]。
+Clues and Considerations:
+
+- This is a compound sentence showing cause and effect
+- The first part is a simple state description of the office
+- For the second part, consider how to modify the verb to show inability
+- Think about how to use the adverb "fast" with the verb "type"
+- Consider which particles would mark location and the computer being used
+- The word "therefore" in Japanese has a specific grammar pattern
+
+Next Steps:
+
+- Begin with constructing the first clause
+- Think about the particle needed to show the topic
+- Consider how to express potential form in the negative
+- Think about the connection between the two clauses that shows causation
+        </output>
+        <score>8</score>
+        <score:reason>
+            This example scores 8 because the returned information is more concise.
+        </score:reason>
+    </example>
+</examples>
