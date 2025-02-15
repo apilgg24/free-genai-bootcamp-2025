@@ -90,3 +90,11 @@ When the input sounds like a question about language learning then we can assume
 - Try and provide a non-nested bulleted list
 - Talk about the vocabulary but try to leave out the Japanese words because the student can refer to the vocabulary table
 - Reference the <file>considerations-examples.xml</file> for good consideration examples
+
+## Teacher Tests
+
+## Last Checks
+- Make sure you read all the example files and tell me that you have.
+- Make sure you read the sentence structure examples file.
+- Make sure you check how many columns there are in the vocab table.
+
